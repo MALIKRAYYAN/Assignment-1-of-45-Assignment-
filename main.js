@@ -1,2 +1,4 @@
-var Name = "Rayyan";
-console.log("hello Rayyan, would you like to learn some python today");
+var Name = "rayyan";
+var naam = "RAYYAN";
+console.log('rayyan');
+console.log('RAYYAN');
